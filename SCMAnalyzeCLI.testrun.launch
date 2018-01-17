@@ -12,7 +12,7 @@
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.rus.jazz.tool.analyzescmcontent.SCMAnalyzeCLI"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-repository https://jazzdev.rsint.net/ccm -user caxmgr -pwd neu-ulm1"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-repository https://jazzdev.rsint.net/ccm -user <user> -pwd <pwd>"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="AnalyzeSCMContent"/>
 <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 </launchConfiguration>
